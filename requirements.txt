@@ -1,0 +1,10 @@
+# This project needs NO third-party packages.
+#
+# It only uses tkinter, which is built into Python's standard library.
+# If tkinter is missing on your system, install it with your package
+# manager, for example:
+#
+#   Ubuntu/Debian:   sudo apt install python3-tk
+#   Fedora:          sudo dnf install python3-tkinter
+#   Arch:            sudo pacman -S tk
+#   macOS/Windows:   tkinter ships with the official Python installer.
